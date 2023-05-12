@@ -5,6 +5,17 @@
   "location": "Campos dos Goytacazes- RJ",
   "phone": "(22) 99797-9633",
   "email": "josueaze12@gmail.com",
+  "social":[
+    {
+      "github": "https://github.com/Josuerx12"
+    },
+    {
+      "linkedin": "https://www.linkedin.com/in/josueaze12/"
+    },
+    {
+      "instagram": "https://www.instagram.com/josuecarvalho012/"
+    }
+  ],
   "skills": {
     "hardSkills": [
       {
