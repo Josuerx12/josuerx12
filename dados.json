@@ -1,0 +1,61 @@
+{
+  "name": "Josue Carvalho",
+  "photo": "https://raw.githubusercontent.com/Josuerx12/Pagina-Portifolio-Curso-JS-Avancado/master/assets/imgs/Photo_Josue.jpg",
+  "job": "Desenvolvedor de Softwares",
+  "location": "Campos dos Goytacazes- RJ",
+  "phone": "(22) 99797-9633",
+  "email": "josueaze12@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Josuerx12/Pagina-Portifolio-Curso-JS-Avancado/master/data/imgs/html.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/Josuerx12/Pagina-Portifolio-Curso-JS-Avancado/master/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Josuerx12/Pagina-Portifolio-Curso-JS-Avancado/master/data/imgs/react.png"
+      },
+      {
+        "name": "Sass",
+        "logo": "https://raw.githubusercontent.com/Josuerx12/Pagina-Portifolio-Curso-JS-Avancado/master/data/imgs/sass.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (avançado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/Josuerx12/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Weather APP",
+      "url": "https://github.com/Josuerx12/WheaterAPP",
+      "github": true
+    },
+    {
+        "name": "JC Soluções",
+        "url": "https://josuerx12.github.io/jcsolucoes/",
+        "github": true
+    },
+    {
+        "name": "Currency Converter",
+        "url": "https://github.com/Josuerx12/currencyConverter",
+        "github": true
+    }
+  ]
+}
