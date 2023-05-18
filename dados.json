@@ -53,7 +53,7 @@
       "pageUrl": "https://josuerx12.github.io/WheaterAPP/",
       "url": "https://github.com/Josuerx12/WheaterAPP",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/weatherApp.png",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "O app do tempo que criei é uma aplicação web responsiva, minimalista e intuitiva que utiliza HTML, CSS e JavaScript para exibir informações precisas sobre as condições climáticas em tempo real. O app permite ao usuário visualizar informações como temperatura, umidade, velocidade do vento e previsão do tempo para os próximos dias, além de possuir ícones animados que mudam de acordo com as condições climáticas atuais. O usuário pode permitir o acesso à sua localização ou pesquisar por outras cidades para visualizar informações sobre o clima em diferentes locais. O app é totalmente responsivo e foi desenvolvido com foco na usabilidade e experiência do usuário.",
       "github": true
     },
     {
@@ -61,7 +61,7 @@
       "pageUrl": "https://josuerx12.github.io/Pokedex/",
       "url": "https://github.com/Josuerx12/Pokedex",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/pokedex.PNG",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "A Pokedex desenvolvida durante o curso de formação em JavaScript é um aplicativo que apresenta uma página inicial com os 10 primeiros Pokémon e um botão que carrega mais 5 Pokémon a cada clique. Cada card exibe o tipo do Pokémon e sua habilidade, proporcionando aos treinadores uma visão geral das informações básicas de cada Pokémon. A Pokedex oferece uma experiência simples e interativa para explorar uma variedade crescente de Pokémon.",
       "github": true
     },
     {
@@ -69,7 +69,7 @@
       "pageUrl": "https://josuerx12.github.io/jcsolucoes/",
       "url": "https://github.com/Josuerx12/jcsolucoes",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/jcsolucoes.PNG",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "A página web 'JC Soluções' é uma plataforma completa e informativa criada para mostrar meu trabalho como profissional de TI e promover meus serviços como desenvolvedor. Com um design atrativo, ela apresenta uma variedade de projetos recentes e oferece informações detalhadas sobre meus serviços. Além disso, a página possui um botão de redirecionamento para orçamentos e contato, facilitando a interação com potenciais clientes. 'JC Soluções' é a vitrine perfeita para apresentar meu trabalho e destacar as soluções que posso oferecer aos interessados em tecnologia da informação",
       "github": true
     },
     {
@@ -77,7 +77,7 @@
       "pageUrl": "https://josuerx12.github.io/currencyConverter/",
       "url": "https://github.com/Josuerx12/currencyConverter",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/currencyConverter.PNG",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "O conversor de moedas que criei combina HTML, CSS3 e JavaScript, juntamente com uma API de moedas, oferecendo aos usuários uma ferramenta prática e intuitiva para realizar conversões monetárias em tempo real. Com uma interface amigável, o aplicativo permite que os usuários informem os valores e selecione as moedas desejadas, obtendo resultados precisos e atualizados com apenas um clique.",
       "github": true
     },
     {
@@ -85,7 +85,7 @@
       "pageUrl": "https://josuerx12.github.io/TodoJS/",
       "url": "https://github.com/Josuerx12/TodoJS",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/todolist.PNG",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "O app Todo-List é uma ferramenta prática e funcional desenvolvida com HTML, CSS e JavaScript, projetada para ajudar os usuários a organizar suas tarefas diárias. Com recursos intuitivos, o aplicativo permite criar, excluir e marcar as tarefas como concluídas. Além disso, caso você clique acidentalmente em uma tarefa concluída, é possível desfazer a ação, garantindo maior flexibilidade e precisão na gestão das tarefas. Com uma interface amigável e recursos de interação eficientes, o Todo-List é uma solução eficaz para manter o controle das atividades diárias de forma fácil e conveniente.",
       "github": true
     },
     {
@@ -93,7 +93,7 @@
       "pageUrl": "https://josuerx12.github.io/calculadoraimc/",
       "url": "https://github.com/Josuerx12/calculadoraimc",
       "img": "https://raw.githubusercontent.com/Josuerx12/josuerx12/main/mydata/ProjectImages/calculadoraIMC.PNG",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "desc": "A calculadora de IMC criada com HTML, CSS e JavaScript é uma ferramenta interativa que fornece aos usuários uma maneira fácil e rápida de calcular e monitorar seu Índice de Massa Corporal. Com uma interface intuitiva, basta inserir o peso e a altura para obter instantaneamente o resultado do IMC e sua classificação correspondente. É uma solução prática para avaliar a saúde e o peso corporal de forma eficiente.",
       "github": true
     }
   ]
