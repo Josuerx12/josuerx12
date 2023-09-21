@@ -2,7 +2,7 @@
 ## My name is Josue Carvalho.
 
 - 🔭 I’m currently working on IT Management
-- 🌱 I’m currently learning more about React.JS
+- 🌱 I’m currently learning more about Node.js and AWS Services.
 - ⚡ Fun fact: I'm fascinated to look progress in my developer knowledges.
 
 ## Tools and Technologies
