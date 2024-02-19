@@ -2,7 +2,7 @@
 ## My name is Josue Carvalho.
 
 - 🔭 I’m currently working on IT Management
-- 🌱 I’m currently learning more about Node.js and AWS Services.
+- 🌱 I’m currently learning more about Nest.js, Next.js and AWS Services.
 - ⚡ Fun fact: I'm fascinated to look progress in my developer knowledges.
 
 ## Tools and Technologies
@@ -11,7 +11,7 @@
 
 ## Learning
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NestJS-Dark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg" width="40" height="40"/>
 
 ## Contacts
 
