@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## My name is Josue Carvalho.
 
-- 🔭 I’m currently working on IT Management
-- 🌱 I’m currently learning more about AWS Services.
+- 🔭 I’m currently working on Back-end developer
+- 🌱 I’m currently learning more about Domain Driven Design and clean architecture.
 - ⚡ Fun fact: I'm fascinated to look progress in my developer knowledges.
 
 ## Tools and Technologies
